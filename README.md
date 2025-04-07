@@ -27,5 +27,3 @@ This app uses a **content-based filtering approach**. Here’s what happens behi
 
 ---
 
-## 📁 Project Structure
-
